@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HomeWork_4</string>
+    <string name="main_activity_title">Photo</string>
+    <string name="main_activity_image_view_description" translatable="false">ImageViewMainActivity</string>
+    <string name="main_activity_button_title">Change photo</string>
+    <string name="second_activity_title">Choose photo</string>
+    <string name="second_activity_first_button_title">One</string>
+    <string name="second_activity_second_button_title">Two</string>
+    <string name="second_activity_third_button_title">Three</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HomeWork_4</string>
+    <string name="main_activity_button_title">Изменить фото</string>
+    <string name="second_activity_first_button_title">Один</string>
+    <string name="second_activity_second_button_title">Два</string>
+    <string name="second_activity_third_button_title">Три</string>
+    <string name="main_activity_title">Фото</string>
+    <string name="second_activity_title">Выберите фото</string>
+</resources>
